@@ -5,7 +5,7 @@
 
 This repository houses data wrangling mini projects using Pandas. It was cloned from this [amazing repo](https://github.com/guipsamora/pandas_exercises), which houses many Pandas exercises.
 
-Topics include:
+## Topics include:
 * Exploring Data
 * Filtering and Sorting
 * Grouping
@@ -17,3 +17,5 @@ Topics include:
 * Time Series
 * Deleting
 * Indexing
+
+The notebooks named _Exercises_ within each folder will have my personal solutions. 
